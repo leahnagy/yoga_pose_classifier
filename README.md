@@ -1,1 +1,1 @@
-# yoga_pose_classifier
+# Yoga Pose Classifier
