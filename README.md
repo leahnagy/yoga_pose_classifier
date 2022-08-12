@@ -63,5 +63,5 @@ CNN using TensorFlow's MoveNet model produced the following accuracy scores:<br>
 - Matplotlib and Seaborn for plotting
 
 ## Communication
-In addition to the slides and visuals presented, this project will be embedded on my GitHub site along with an article describing the steps of the project in detail on my personal blog. 
+In addition to the slides and visuals presented, this project will be embedded on my GitHub site along with an article describing the steps of the project in detail on my personal blog. Check out the article [here](https://medium.com/@leahnagy/yoga-pose-classification-with-tensorflows-movenet-model-3e5771fda292).
 
